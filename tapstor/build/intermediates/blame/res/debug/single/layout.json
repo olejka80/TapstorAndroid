@@ -44,6 +44,10 @@
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\layout\\activity_send_email.xml"
     },
     {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\layout\\amu_info_window.xml"
+    },
+    {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_dialog_comment.xml",
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\layout\\inflate_dialog_comment.xml"
     },
@@ -138,6 +142,10 @@
     {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\layout\\amu_text_bubble.xml"
     },
     {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
@@ -246,6 +254,10 @@
     {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\layout\\amu_webview.xml"
     },
     {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",

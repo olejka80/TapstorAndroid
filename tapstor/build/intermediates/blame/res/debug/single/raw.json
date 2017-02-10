@@ -1,6 +1,86 @@
 [
     {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_default_balloon.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unsupported.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_folder.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_basic_folder.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_document_nest.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_placemark.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_inline_style.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multiple_placemarks.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay_color.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_visibility_ground_overlay.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_cdata.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_numeric.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unknwown_folder.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_extended_data.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_alpha.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_draw_order_ground_overlay.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multigeometry_placemarks.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ballon_gx_prefix.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-tagmanager-v4-impl\\10.0.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_multigeometry.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_folders.kml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\raw\\amu_nested_folders.kml"
     }
 ]

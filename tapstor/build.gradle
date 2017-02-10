@@ -29,6 +29,7 @@ dependencies {
     compile 'com.google.android.gms:play-services-gcm:10.0.1'
     compile 'com.google.android.gms:play-services-location:10.0.1'
     compile 'com.google.android.gms:play-services-analytics:10.0.1'
+    compile 'com.google.maps.android:android-maps-utils:0.5+'
     compile 'com.koushikdutta.ion:ion:2.1.7'
     compile 'com.squareup.okhttp3:okhttp:3.3.1'
     compile 'com.squareup.picasso:picasso:2.5.2'

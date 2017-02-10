@@ -112,12 +112,12 @@
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable\\avatar_circle.xml"
     },
     {
-        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow.png",
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable\\down_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",

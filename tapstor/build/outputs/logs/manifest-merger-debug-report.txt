@@ -124,6 +124,7 @@ MERGED from [com.android.support:support-media-compat:25.1.1] E:\Android\My Proj
 MERGED from [com.android.support:support-core-ui:25.1.1] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:25.1.1] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.1.1] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.5\AndroidManifest.xml:7:5-11:19
 MERGED from [com.koushikdutta.ion:ion:2.1.7] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.7\AndroidManifest.xml:13:5-14:19
 MERGED from [com.koushikdutta.async:androidasync:2.1.7] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.7\AndroidManifest.xml:13:5-14:19
 	android:label
@@ -149,6 +150,7 @@ ADDED from E:\Android\My Projects\TapstorAndroid\tapstor\src\main\AndroidManifes
 meta-data#com.google.android.gms.version
 ADDED from E:\Android\My Projects\TapstorAndroid\tapstor\src\main\AndroidManifest.xml:60:9-62:69
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.5] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.5\AndroidManifest.xml:8:9-10:69
 	android:value
 		ADDED from E:\Android\My Projects\TapstorAndroid\tapstor\src\main\AndroidManifest.xml:62:13-66
 	android:name
@@ -327,6 +329,7 @@ MERGED from [com.android.support:support-media-compat:25.1.1] E:\Android\My Proj
 MERGED from [com.android.support:support-core-ui:25.1.1] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.1.1] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.1.1] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.maps.android:android-maps-utils:0.5] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.5\AndroidManifest.xml:5:5-43
 MERGED from [com.koushikdutta.ion:ion:2.1.7] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.7\AndroidManifest.xml:7:5-9:41
 MERGED from [com.koushikdutta.async:androidasync:2.1.7] E:\Android\My Projects\TapstorAndroid\tapstor\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.7\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary

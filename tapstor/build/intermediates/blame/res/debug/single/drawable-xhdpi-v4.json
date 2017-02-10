@@ -108,6 +108,10 @@
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amu_bubble_shadow.9.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\drawable-xhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -278,6 +282,10 @@
     {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amu_bubble_mask.9.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.5\\res\\drawable-xhdpi-v4\\amu_bubble_mask.9.png"
     },
     {
         "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png",

@@ -516,9 +516,9 @@ public class MainViewPagerActivity extends TapstorActivity {
         TextView redBall = (TextView) findViewById(R.id.notification_num);
         if (TapstorData.getInstance().getUnreadMessages() != 0) {
             if (TapstorData.getInstance().getUnreadMessages() > 99) {
-                redBall.setText(String.format(getResources().getString(R.string.placeholder_plus), 99));
+                redBall.setText(String.format(getResources().getString(R.string.placeholder_plus), String.valueOf(99)));
             } else {
-                redBall.setText(String.format(getResources().getString(R.string.placeholder_string), TapstorData.getInstance().getUnreadMessages()));
+                redBall.setText(String.format(getResources().getString(R.string.placeholder_string), String.valueOf(TapstorData.getInstance().getUnreadMessages())));
             }
             redBall.setVisibility(View.VISIBLE);
         } else {
@@ -613,7 +613,7 @@ public class MainViewPagerActivity extends TapstorActivity {
                     TapstorData.getInstance().notificationIdsofReadList = Helper.readNotifications(context);
 
                     if (TapstorData.getInstance().notificationIdsofReadList == null) {
-                        TapstorData.getInstance().notificationIdsofReadList = new ArrayList<Integer>();
+                        TapstorData.getInstance().notificationIdsofReadList = new ArrayList<>();
                     }
 
                     if (result_user_messages.messages.size() == 0) {
