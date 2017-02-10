@@ -1,0 +1,178 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.iproject.tapstor.NotificationsActivity"
+    tools:showIn="@layout/activity_notifications">
+
+    <LinearLayout
+        android:id="@+id/tabBar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/tabbar_bg"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:paddingTop="2dp">
+
+        <LinearLayout
+            android:id="@+id/tab1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/tabbar_popular" />
+
+            <TextView
+                style="@style/TextStyleGray"
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:layout_marginTop="-4dp"
+                android:gravity="center"
+                android:text="@string/tab_popular"
+                android:textSize="9sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/tabbar_near_me" />
+
+            <TextView
+                style="@style/TextStyleGray"
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:layout_marginTop="-4dp"
+                android:gravity="center"
+                android:text="@string/tab_near_me"
+                android:textSize="9sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/tabbar_new" />
+
+            <TextView
+                style="@style/TextStyleGray"
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:layout_marginTop="-4dp"
+                android:gravity="center"
+                android:text="@string/tab_new"
+                android:textSize="9sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="38dp"
+                    android:layout_height="38dp"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/tabbar_notifications_p" />
+
+                <com.iproject.tapstor.library.AutoResizeTextView
+                    android:id="@+id/notification_num"
+                    android:layout_width="13dp"
+                    android:layout_height="13dp"
+                    android:layout_gravity="right|top"
+                    android:layout_marginRight="2dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@drawable/circle"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="9sp"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <TextView
+                style="@style/TextStyleBlack"
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:layout_marginTop="-4dp"
+                android:gravity="center"
+                android:text="@string/tab_notifications"
+                android:textSize="9sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/tabbar_ar" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tabBar"></ListView>
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/not_found"
+        style="@style/Grey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/there_are_no_notifications"
+        android:visibility="gone" />
+
+</RelativeLayout>

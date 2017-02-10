@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.iproject.tapstor.UserProfileActivity"
+    tools:showIn="@layout/activity_user_profile">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <FrameLayout
+            android:id="@+id/frame_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:contentDescription="@string/app_name"
+                android:padding="0.5dp"
+                android:src="@drawable/add_avatar" />
+
+            <ImageView
+                android:id="@+id/imageViewCircle"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/avatar_circle" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/frame_image"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editText1"
+                style="@style/TextBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/firstname"
+                android:inputType="textPersonName">
+
+                <requestFocus />
+            </EditText>
+
+            <EditText
+                android:id="@+id/editText2"
+                style="@style/TextBlack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/lastname"
+                android:inputType="textPersonName" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/buttonSelectLanuage"
+        style="@style/TextStyleWhite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:layout_marginTop="45dp"
+        android:background="#78CCF4"
+        android:paddingLeft="45dp"
+        android:paddingRight="45dp"
+        android:text="@string/select_language" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/TextStyleWhite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:layout_marginTop="45dp"
+        android:background="@color/grey"
+        android:paddingLeft="45dp"
+        android:paddingRight="45dp"
+        android:text="@string/save" />
+
+</RelativeLayout>

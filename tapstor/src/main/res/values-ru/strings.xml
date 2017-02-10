@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">УДАЛИТЬ</string>
+    <string name="app_name">Tapstor</string>
+    <string name="tab_popular">Популярные</string>
+    <string name="tab_near_me">Возле меня</string>
+    <string name="tab_new">Новинки</string>
+    <string name="tab_notifications">Уведомления</string>
+    <string name="tab_enterprises">Организации</string>
+    <string name="tab_services">Услуги</string>
+    <string name="tab_products">Товары</string>
+    <string name="tab_favorites">Избранные</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="price_range">Диапазон цен</string>
+    <string name="all_the_categories">Все категории</string>
+    <string name="price_down">Снижение цен</string>
+    <string name="deals">В предложение</string>
+    <string name="offer">Предложение</string>
+    <string name="offers">Предложения</string>
+    <string name="contuct_us">Контакт</string>
+    <string name="favorite">Избранное</string>
+    <string name="share_it">Поделиться</string>
+    <string name="rating">Оценка</string>
+    <string name="news">Новости</string>
+    <string name="description">Описание</string>
+    <string name="connection_error">Произошла ошибка в соединение</string>
+    <string name="comments">Комментарии</string>
+    <string name="price">Цена</string>
+    <string name="no_results">Не найден результат</string>
+    <string name="contact_info">Контактная информация</string>
+    <string name="phone">Телефон:&#160;</string>
+    <string name="address">Адрес:&#160;</string>
+    <string name="one_year_ago">&#160;год</string>
+    <string name="years_ago">&#160;лет</string>
+    <string name="one_month_ago">&#160;месяц</string>
+    <string name="months_ago">&#160;месяцев</string>
+    <string name="dots">&#8230;</string>
+    <string name="day">&#160;день</string>
+    <string name="days_ago">&#160;дней</string>
+    <string name="hour_ago">&#160;час</string>
+    <string name="hours_ago">&#160;часов</string>
+    <string name="minute_ago">&#160;минуту</string>
+    <string name="minutes_ago">&#160;минут</string>
+    <string name="before">До&#160;</string>
+    <string name="save">Сохранить</string>
+    <string name="dialog_text">Вы должны заполнить ваше Имя и Фамилию в вашем профиле , чтобы оставить комментарии</string>
+    <string name="ok">ΟΚ</string>
+    <string name="contact">Контакт</string>
+    <string name="schedule">Часы работы</string>
+    <string name="cancel">Отмена</string>
+    <string name="profile">Профиль</string>
+    <string name="profile_update">Ваш профиль был успешно обновлен</string>
+    <string name="choose_avatar">Выбрать изображение</string>
+    <string name="from_gallery">Из коллекции</string>
+    <string name="from_camera">Камера</string>
+    <string name="submit">Отправить</string>
+    <string name="cancelation">Отмена</string>
+    <string name="leave_comment">Оставьте комментарии:</string>
+    <string name="fill_in_all_fields">Заполните обязательные поля</string>
+    <string name="my_profile">Мой профиль</string>
+    <string name="instructions">Правила использования</string>
+    <string name="about_us">О нас</string>
+    <string name="terms_of_use">Условия использования</string>
+    <string name="suggest_an_enterprise">Хочу предложить одну\организацию</string>
+    <string name="add_an_enterprise">Хочу занести мою\организацию</string>
+    <string name="already_commented">Вы не можете оставить комментарий</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="response">Ответ</string>
+    <string name="share">Поделиться</string>
+    <string name="sunday">Воскресение</string>
+    <string name="gps_error">Не определяется ваше местоположение.\Разрешить доступ к вашей геопозиции.</string>
+    <string name="all_cats">Все категории</string>
+
+    <!--New-->
+    <string name="no_facebook_app_found">Не найдено приложение Facebook</string>
+    <string name="no_twitter_app_found">Не найдено приложение Twitter</string>
+    <string name="share_listing">Внести организацию</string>
+
+    <string name="access_location_description">Если не активированы службы геолокации, приложение не сможет определить вашу геопозицию. Вы уверены, что хотите запретить доступ к вашей геопозиции?</string>
+    <string name="access_location_not_granted">Приложение не может определить вашу геопозицию>.</string>
+    <string name="access_location_directions">Чтобы разрешить приложению доступ к вашей геопозиции, пройдите в настройки> Приложения> Tapstor >Разрешения и активировать доступ к вашей геопозиции.</string>
+
+    <string name="access_file_description">Без разрешения доступа к хранилищу, приложение не сможет получить доступ к фотографиям фашего телефона. Вы уверены что хотите запретить доступ к хранилищу?</string>
+    <string name="access_file_not_granted">Приложение не может получить доступ к хранилищу.</string>
+    <string name="access_file_directions">Чтобы разрешить доступ приложения к хранилищу, пройдите в Настройки > Приложения> Tapstor > Разрешение и активировать доступ к хранилищу.</string>
+
+    <string name="access_camera_description">Без разрешения доступа к Камере, приложение не сможет использовать камеру вашего телефона. Вы уверены, что хотите запретить доступ к Камере?</string>
+    <string name="access_camera_not_granted">Приложение не может получить доступ к камере.</string>
+    <string name="access_camera_directions">Чтобы разрешить приложению использовать вашу камеру, пройдите в Настройки > Приложения > Tapstor > Разрешения и активировать доступ к вашей камере.</string>
+
+
+    <string name="permission_denied">Доступ не был получен</string>
+    <string name="permission_retry">Попробуйте еще раз</string>
+    <!--On purpose-->
+    <string name="permission_im_sure">Да</string>
+    <string name="permission_ok">OK</string>
+    <string name="permission_cancel">ОТМЕНА</string>
+
+    <string name="search">Поиск</string>
+    <string name="map">Карта</string>
+    <string name="suggest_business">Предложить организацию</string>
+
+    <string name="firstname">Имя</string>
+    <string name="lastname">Фамилия</string>
+
+    <string name="placeholder_km">%1$.2f км</string>
+    <string name="placeholder_m">%.0f м</string>
+    <string name="placeholder_selected">%1$s Выбранные</string>
+
+    <string name="not_supported">Не поддерживается</string>
+    <string name="edit">Изменить</string>
+    <string name="try_again">Попробуйте еще раз</string>
+    <string name="close">Закрыть</string>
+    <string name="connection_problem">Проблема в подключении</string>
+    <string name="no_active_connection_to_the_internet">Не найдено подключение к интернету!</string>
+    <string name="please_wait">Пожалуйста подождите &#8230;</string>
+    <string name="now">Сейчас</string>
+
+    <string name="no_price">Без цены</string>
+
+    <string name="north">С</string>
+    <string name="south">Ю</string>
+    <string name="west">З</string>
+    <string name="east">В</string>
+
+    <string name="north_east">СВ</string>
+    <string name="north_west">СЗ</string>
+    <string name="south_east">ЮВ</string>
+    <string name="south_west">ЮЗ</string>
+
+    <string name="closed">Закрыто</string>
+
+    <string name="select_language">ВЫБОР ЯЗЫКА</string>
+    <string name="select_language_title">Выберите язык</string>
+    <string name="select_picture">Выберите изображение</string>
+    <string name="restart_app_to_change_language">Чтобы сохранить изменения, необходимо перезагрузить приложение.</string>
+
+
+    <string name="exit">Выход</string>
+    <string name="cancel_lower_case">Отмена</string>
+    <string name="call">Звонок</string>
+    <string name="enterprise_address">Адрес организации </string>
+    <string name="enterprise_email">*Email организации</string>
+    <string name="enterprise_name">*Имя организации</string>
+    <string name="enterprise_telephone">Телефон организации</string>
+    <string name="manager_telephone">*Телефон владельца</string>
+    <string name="send">Отправить</string>
+    <string name="manager_email">*Имя владельца</string>
+    <string name="there_are_no_news">Нет новостей</string>
+    <string name="there_are_no_notifications">У вас нет новых уведомлений</string>
+    <string name="applicant_email">*Email владельца</string>
+
+    <string name="press_for_routing">Начать маршрут</string>
+
+</resources>

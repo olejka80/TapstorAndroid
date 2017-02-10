@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\menu\\notifications.xml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\menu\\notifications.xml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\menu\\options_menu.xml"
+    }
+]

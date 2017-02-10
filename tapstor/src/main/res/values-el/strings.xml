@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">ΔΙΑΓΡΑΦΗ</string>
+    <string name="app_name">Tapstor</string>
+    <string name="tab_popular">Δημοφιλείς</string>
+    <string name="tab_near_me">Κοντά μου</string>
+    <string name="tab_new">Νέα</string>
+    <string name="tab_notifications">Ειδοποιήσεις</string>
+    <string name="tab_enterprises">Μέρη</string>
+    <string name="tab_services">Υπηρεσίες</string>
+    <string name="tab_products">Προϊόντα</string>
+    <string name="tab_favorites">Αγαπημένα</string>
+    <string name="tab_settings">Ρυθμίσεις</string>
+    <string name="back">Πίσω</string>
+    <string name="price_range">Εύρος τιμής</string>
+    <string name="all_the_categories">Όλες οι Κατηγορίες</string>
+    <string name="price_down">Πτώση τιμών</string>
+    <string name="deals">Σε προσφορά</string>
+    <string name="offer">Προσφορά</string>
+    <string name="offers">Προσφορές</string>
+    <string name="contuct_us">Επικοινωνία</string>
+    <string name="favorite">Αγαπημένο</string>
+    <string name="share_it">Μοιράσου το</string>
+    <string name="rating">Βαθμολογία</string>
+    <string name="news">Νέα</string>
+    <string name="description">Περιγραφή</string>
+    <string name="connection_error">Παρουσιάστηκε πρόβλημα σύνδεσης</string>
+    <string name="comments">Σχόλια</string>
+    <string name="price">Τιμή</string>
+    <string name="no_results">Δεν βρέθηκαν αποτελέσματα</string>
+    <string name="contact_info">Στοιχεία Επικοινωνίας</string>
+    <string name="phone">Τηλέφωνο:&#160;</string>
+    <string name="address">Διεύθυνση:&#160;</string>
+    <string name="one_year_ago">&#160;χρόνο</string>
+    <string name="years_ago">&#160;χρόνια</string>
+    <string name="one_month_ago">&#160;μήνα</string>
+    <string name="months_ago">&#160;μήνες</string>
+    <string name="dots">&#8230;</string>
+    <string name="day">&#160;ημέρα</string>
+    <string name="days_ago">&#160;ημέρες</string>
+    <string name="hour_ago">&#160;ώρα</string>
+    <string name="hours_ago">&#160;ώρες</string>
+    <string name="minute_ago">&#160;λεπτό</string>
+    <string name="minutes_ago">&#160;λεπτά</string>
+    <string name="before">Πριν&#160;</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="dialog_text">Θα πρέπει να συμπληρώσετε όνομα και επώνυμο στο προφίλ σας για να σχολιάσετε</string>
+    <string name="ok">ΟΚ</string>
+    <string name="contact">Επικοινωνία</string>
+    <string name="schedule">Ωράρια λειτουργίας</string>
+    <string name="cancel">AΚΥΡΟ</string>
+    <string name="profile">Προφίλ</string>
+    <string name="profile_update">Το προφίλ ενημερώθηκε με επιτυχία</string>
+    <string name="choose_avatar">Επιλογή εικόνας</string>
+    <string name="from_gallery">Από συλλογή</string>
+    <string name="from_camera">Από κάμερα</string>
+    <string name="submit">Υποβολή</string>
+    <string name="cancelation">Ακύρωση</string>
+    <string name="leave_comment">Σχολιάστε:</string>
+    <string name="fill_in_all_fields">Συμπληρώστε πρώτα τα απαραίτητα πεδία</string>
+    <string name="my_profile">Το προφίλ μου</string>
+    <string name="instructions">Οδηγίες χρήσης</string>
+    <string name="about_us">Σχετικά με εμάς</string>
+    <string name="terms_of_use">Όροι χρήσης</string>
+    <string name="suggest_an_enterprise">Θέλω να προτείνω ένα μέρος</string>
+    <string name="add_an_enterprise">Θέλω να προσθέσω το μέρος μου</string>
+    <string name="already_commented">Δεν μπορείτε να προσθέσετε σχόλιο</string>
+    <string name="monday">Δευτέρα</string>
+    <string name="tuesday">Τρίτη</string>
+    <string name="wednesday">Τετάρτη</string>
+    <string name="thursday">Πέμπτη</string>
+    <string name="friday">Παρασκευή</string>
+    <string name="saturday">Σάββατο</string>
+    <string name="response">Απάντηση</string>
+    <string name="share">Μοιράσου το</string>
+    <string name="sunday">Κυριακή</string>
+    <string name="gps_error">Δεν είναι δυνατή η εύρεση της τοποθεσίας σας.\nΕνεργοποιήστε τις μεθόδους εντοπισμού της συσκευής από τις ρυθμίσεις.</string>
+    <string name="all_cats">Όλες οι κατηγορίες</string>
+
+    <!--New-->
+    <string name="no_facebook_app_found">Δεν βρέθηκε εφαρμογή Facebook</string>
+    <string name="no_twitter_app_found">Δεν βρέθηκε εφαρμογή Twitter</string>
+    <string name="share_listing">Δημοσίευση μέρους</string>
+
+    <string name="access_location_description">Χωρίς πρόσβαση στην Τοποθεσία η εφαρμογή δεν θα μπορεί να λάβει την θέση της συσκευής. Είστε σίγουρος ότι θέλετε να απορρίψετε την πρόσβαση στην Τοποθεσία;</string>
+    <string name="access_location_not_granted">Η εφαρμογή δεν μπορεί να λάβει πρόσβαση στην τοποθεσία.</string>
+    <string name="access_location_directions">Για να ενεργοποιήσετε την πρόσβαση στην τοποθεσία για αυτή την εφαρμογή, πηγαίνετε στις Ρυθμίσεις > Εφαρμογές > Tapstor > Άδειες και ενεργοποιήστε την πρόσβαση στην Τοποθεσία.</string>
+
+    <string name="access_file_description">Χωρίς πρόσβαση στον Αποθηκευτικό Χώρο η εφαρμογή δεν θα μπορεί να λάβει πρόσβαση στις φωτογραφίες της συσκευής. Είστε σίγουρος ότι θέλετε να απορρίψετε την πρόσβαση στον Αποθηκευτικό Χώρο;</string>
+    <string name="access_file_not_granted">Η εφαρμογή δεν μπορεί να λάβει πρόσβαση στον αποθηκευτικό χώρο.</string>
+    <string name="access_file_directions">Για να ενεργοποιήσετε την πρόσβαση στον αποθηκευτικό χώρο για αυτή την εφαρμογή, πηγαίνετε στις Ρυθμίσεις > Εφαρμογές > Tapstor > Άδειες και ενεργοποιήστε την πρόσβαση στον Αποθηκευτικό Χώρο.</string>
+
+    <string name="access_camera_description">Χωρίς πρόσβαση στην Κάμερα η εφαρμογή δεν θα μπορεί να εμφανίσει την κάμερα της συσκευής. Είστε σίγουρος ότι θέλετε να απορρίψετε την πρόσβαση στην Κάμερα;</string>
+    <string name="access_camera_not_granted">Η εφαρμογή δεν μπορεί να λάβει πρόσβαση στην κάμερα.</string>
+    <string name="access_camera_directions">Για να ενεργοποιήσετε την πρόσβαση στην κάμερα για αυτή την εφαρμογή, πηγαίνετε στις Ρυθμίσεις > Εφαρμογές > Tapstor > Άδειες και ενεργοποιήστε την πρόσβαση στην Κάμερα.</string>
+
+
+    <string name="permission_denied">Η πρόσβαση απορρίφθηκε</string>
+    <string name="permission_retry">Προσπαθεια Ξανα</string>
+    <!--On purpose-->
+    <string name="permission_im_sure">Ναι</string>
+    <string name="permission_ok">OK</string>
+    <string name="permission_cancel">ΑΚΥΡΟ</string>
+
+    <string name="search">Αναζήτηση</string>
+    <string name="map">Χάρτης</string>
+    <string name="suggest_business">Πρόταση μέρους</string>
+
+    <string name="firstname">Όνομα</string>
+    <string name="lastname">Επώνυμο</string>
+
+    <string name="placeholder_km">%1$.2f χλμ</string>
+    <string name="placeholder_m">%.0f μ</string>
+    <string name="placeholder_selected">%1$s Επιλεγμένα</string>
+
+    <string name="not_supported">Δεν υποστηρίζεται</string>
+    <string name="edit">Επεξεργασία</string>
+    <string name="try_again">Δοκιμάστε ξανά</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="connection_problem">Πρόβλημα Σύνδεσης</string>
+    <string name="no_active_connection_to_the_internet">Δεν υπάρχει ενεργή σύνδεση στο διαδίκτυο!</string>
+    <string name="please_wait">Παρακαλώ περιμένετε &#8230;</string>
+    <string name="now">Πριν λίγο</string>
+
+    <string name="no_price">Χωρίς τιμή</string>
+
+    <string name="north">Β</string>
+    <string name="south">Ν</string>
+    <string name="west">Δ</string>
+    <string name="east">A</string>
+
+    <string name="north_east">ΒΑ</string>
+    <string name="north_west">ΒΔ</string>
+    <string name="south_east">ΝΑ</string>
+    <string name="south_west">ΝΔ</string>
+
+    <string name="closed">Κλειστά</string>
+
+    <string name="select_language">ΕΠΙΛΟΓΗ ΓΛΩΣΣΑΣ</string>
+    <string name="select_language_title">Επιλέξτε γλώσσα</string>
+    <string name="select_picture">Επιλογή εικόνας</string>
+    <string name="restart_app_to_change_language">Για να ενεργοποιηθεί η αλλαγή θα πρέπει να γίνει επανεκκίνηση της εφαρμογής.</string>
+
+
+    <string name="exit">Έξοδος</string>
+    <string name="cancel_lower_case">Άκυρο</string>
+    <string name="call">Κλήση</string>
+    <string name="enterprise_address">Διεύθυνση μέρους </string>
+    <string name="enterprise_email">*Email μέρους</string>
+    <string name="enterprise_name">*Όνομα μέρους</string>
+    <string name="enterprise_telephone">Τηλέφωνο μέρους</string>
+    <string name="manager_telephone">*Τηλέφωνο υπεύθυνου</string>
+    <string name="send">Αποστολή</string>
+    <string name="manager_email">*Όνομα υπεύθυνου</string>
+    <string name="there_are_no_news">Δεν υπάρχουν νέα</string>
+    <string name="there_are_no_notifications">Δεν έχετε νέες ειδοποιήσεις</string>
+    <string name="applicant_email">*Email αιτούντος</string>
+
+    <string name="press_for_routing">Πατήστε για δρομολόγηση</string>
+
+</resources>

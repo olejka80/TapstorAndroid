@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="118dp"
+    android:background="@drawable/rect_boarder_white"
+    android:gravity="center_horizontal">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/image_line"
+        android:layout_alignParentTop="true">
+
+        <ImageView
+            android:id="@+id/grid_item_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/app_name"
+            android:padding="1dp"
+            android:src="@drawable/tapstor_icon" />
+
+        <ImageView
+            android:id="@+id/new_ribbon"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="top|left"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitStart"
+            android:src="@drawable/new_ribbon"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/yellow_ribbon"
+            android:layout_width="46dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="top|left"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitStart"
+            android:src="@drawable/yellow_ribbon"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/news_count"
+            style="@style/TextStyleWhite"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="top|right"
+            android:background="@drawable/rectangle_with_boarder"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textSize="15sp"
+            android:visibility="invisible" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/image_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/grid_item_label"
+        android:contentDescription="@string/app_name"
+        android:src="@color/grey" />
+
+    <TextView
+        android:id="@+id/grid_item_label"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="2"
+        android:padding="1dp"
+        android:textColor="@color/grey"
+        android:textSize="14sp"></TextView>
+
+</RelativeLayout>

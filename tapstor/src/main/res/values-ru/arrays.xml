@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="share_options">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>другой</item>
+    </string-array>
+
+    <string-array name="select_language">
+        <item>Греческий</item>
+        <item>Английский</item>
+        <item>Русский</item>
+    </string-array>
+
+
+</resources>

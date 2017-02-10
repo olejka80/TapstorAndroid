@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#D5D6D7</color>
+    <color name="tab_highlight">#7D7D7D</color>
+    <color name="tabber">#90EBEBEB</color>
+
+    <color name="bg">#F4F4F4</color>
+
+    <!-- BLUE -->
+    <color name="blue">#6CD3FD</color>
+    <color name="dark_blue">#2879AD</color>
+
+    <!-- YELLOrW -->
+    <color name="yellow">#F9D927</color>
+    <!-- PURPLE -->
+    <color name="purple">#EE60FF</color>
+    <color name="dark_purple">#81329A</color>
+    <!-- GREEN -->
+    <color name="favorites">#3ADA25</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black_grey">#D7292929</color>
+    <color name="grey">#929292</color>
+    <color name="light_grey">#9A9A9A</color>
+    <color name="super_light_grey">#E2E2E2</color>
+    <color name="green">#2EDA00</color>
+    <color name="red">#F81323</color>
+    <color name="deep_purple">#81329A</color>
+    <color name="deep_blue">#2879AD</color>
+
+</resources>

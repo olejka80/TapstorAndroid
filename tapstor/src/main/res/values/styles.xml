@@ -1,0 +1,93 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--        <item name="android:actionBarTabBarStyle">@style/Divider</item>
+                <item name="android:actionModeBackground">@color/white</item>
+                <item name="android:actionBarStyle">@style/MyTheme.ActionBarStyle</item>
+                <item name="android:actionMenuTextColor">@color/grey</item>-->
+
+        <item name="colorPrimary">@color/super_light_grey</item>
+        <item name="colorPrimaryDark">@color/light_grey</item>
+        <item name="colorAccent">@color/light_grey</item>
+        <item name="android:textColor">@color/black_grey</item>
+        <item name="android:colorBackground">@android:color/white</item>
+
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <!--<style name="MyTheme.ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+    </style>
+
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="Divider" parent="@android:style/Widget.Holo.ActionBar.TabBar">
+        <item name="android:divider">@drawable/divider_drawable</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">12dip</item>
+        <item name="android:background">@color/white</item>
+    </style>-->
+
+    <style name="TextStyleBlack" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">9sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="TextBlack" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="TextStyleWhite" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="Grey" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="ActivityTitle" parent="Grey">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="TabText" parent="Grey">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextStyleGray" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">9sp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="ThemeFullScreen" parent="@android:style/Theme.Holo">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+</resources>

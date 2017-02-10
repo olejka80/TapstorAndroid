@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\telephone.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\telephone.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_yellow_ribbon.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\ic_yellow_ribbon.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yellow_ribbon.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\yellow_ribbon.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\location_icon.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\location_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_ic_search.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\ic_action_ic_search.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_beta.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\ic_beta.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_messagesicon.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\ic_messagesicon.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_more_details_btn_section.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\ic_action_more_details_btn_section.png"
+    },
+    {
+        "merged": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tapstor_icon.png",
+        "source": "E:\\Android\\My Projects\\TapstorAndroid\\tapstor\\src\\main\\res\\drawable-xxhdpi\\tapstor_icon.png"
+    }
+]

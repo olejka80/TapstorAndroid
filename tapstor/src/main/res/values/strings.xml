@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id" translatable="false">1586856641585416</string>
+
+    <string name="title_activity_popular" translatable="false">PopularActivity</string>
+    <string name="title_activity_new" translatable="false">NewActivity</string>
+    <string name="title_activity_notifications" translatable="false">NotificationsActivity</string>
+    <string name="title_activity_ar" translatable="false">ARActivity</string>
+
+    <string name="title_activity_detail_listing" translatable="false">DetailListingActivity</string>
+
+    <string name="title_activity_products_for_store" translatable="false">ProductsForStoreActivity</string>
+    <string name="title_activity_user_profile" translatable="false">UserProfileActivity</string>
+
+    <string name="title_activity_send_email" translatable="false">SendEmailActivity</string>
+    <string name="title_activity_list" translatable="false">ListActivity</string>
+
+    <string name="placeholder_string" translatable="false">%1$s</string>
+    <string name="placeholder_plus" translatable="false">%1$s+</string>
+    <string name="placeholder_dash" translatable="false">%1$s - %2$s</string>
+
+
+    <string name="currency" translatable="false">%1$s €</string>
+    <string name="discount_percentage" translatable="false">- %1$s \%</string>
+
+    <string name="delete">DELETE</string>
+    <string name="app_name">Tapstor</string>
+    <string name="tab_popular">Popular</string>
+    <string name="tab_near_me">Near me</string>
+    <string name="tab_new">New</string>
+    <string name="tab_notifications">Notifications</string>
+    <string name="tab_enterprises">Places</string>
+    <string name="tab_services">Services</string>
+    <string name="tab_products">Products</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="price_range">Price range</string>
+    <string name="all_the_categories">All categories</string>
+    <string name="price_down">Price down</string>
+    <string name="deals">Deals</string>
+    <string name="offer">Offer</string>
+    <string name="offers">Offers</string>
+    <string name="contuct_us">Contact us</string>
+    <string name="favorite">Favorite</string>
+    <string name="share_it">Share it</string>
+    <string name="rating">Rating</string>
+    <string name="news">News</string>
+    <string name="description">Description</string>
+    <string name="connection_error">A connection error has occurred</string>
+    <string name="comments">Comments</string>
+    <string name="price">Price</string>
+    <string name="no_results">No results found</string>
+    <string name="contact_info">Contact info</string>
+    <string name="phone">Phone number:&#160;</string>
+    <string name="address">Address:&#160;</string>
+    <string name="one_year_ago">&#160;year</string>
+    <string name="years_ago">&#160;years</string>
+    <string name="one_month_ago">&#160;month</string>
+    <string name="months_ago">&#160;months</string>
+    <string name="dots">&#8230;</string>
+    <string name="day">&#160;day</string>
+    <string name="days_ago">&#160;days</string>
+    <string name="hour_ago">&#160;hour</string>
+    <string name="hours_ago">&#160;hours</string>
+    <string name="minute_ago">&#160;minute</string>
+    <string name="minutes_ago">&#160;minutes</string>
+    <string name="before">Before&#160;</string>
+    <string name="save">Save</string>
+    <string name="dialog_text">You need to fill in your first and last name on your profile to leave a comment</string>
+    <string name="ok">OK</string>
+    <string name="contact">Contact us</string>
+    <string name="schedule">Working hours</string>
+    <string name="cancel">CANCEL</string>
+    <string name="profile">Profile</string>
+    <string name="profile_update">Profile successfully updated</string>
+    <string name="choose_avatar">Choose avatar</string>
+    <string name="from_gallery">From gallery</string>
+    <string name="from_camera">From camera</string>
+    <string name="submit">Submit</string>
+    <string name="cancelation">Cancellation</string>
+    <string name="leave_comment">Leave a comment:</string>
+    <string name="fill_in_all_fields">First, fill in all fields necessary</string>
+    <string name="my_profile">My profile</string>
+    <string name="instructions">Instructions for use</string>
+    <string name="about_us">About us</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="suggest_an_enterprise">I want to suggest a place</string>
+    <string name="add_an_enterprise">I want to add my place</string>
+    <string name="already_commented">You cannot add a comment</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="response">Response</string>
+    <string name="share">Share it</string>
+    <string name="sunday">Sunday</string>
+    <string name="gps_error">Your location cannot be found.\Please activate the device tracking methods from settings.</string>
+    <string name="all_cats">All categories</string>
+
+    <!--New-->
+    <string name="no_facebook_app_found">No Facebook application found</string>
+    <string name="no_twitter_app_found">No Twitter application found</string>
+    <string name="share_listing">Share place</string>
+
+    <string name="access_location_description">Without access to your Location, the application cannot receive the location on this device. Are you sure you want to deny access to your Location?</string>
+    <string name="access_location_not_granted">The application cannot receive access to location.</string>
+    <string name="access_location_directions">To activate access to location for this application, go to Settings > Applications > Tapstor > Permissions and activate access to Location.</string>
+
+    <string name="access_file_description">Without access to Files, the application cannon receive access to photos on this device. Are you sure you want to deny access to Files?</string>
+    <string name="access_file_not_granted">The application cannot receive access to files.</string>
+    <string name="access_file_directions">To activate access to files for this application, go to Settings > Applications > Tapstor > Permissions and activate access to Files.</string>
+
+    <string name="access_camera_description">Without access to Camera, the application cannot open the camera on this device. Are you sure you want to deny access to Camera?</string>
+    <string name="access_camera_not_granted">The application cannot receive access to camera.</string>
+    <string name="access_camera_directions">To activate access to camera for this application, go to Settings > Applications > Tapstor > Permissions and activate access to Camera.</string>
+
+
+    <string name="permission_denied">Access denied</string>
+    <string name="permission_retry">Try again</string>
+    <!--On purpose-->
+    <string name="permission_im_sure">Yes</string>
+    <string name="permission_ok">OK</string>
+    <string name="permission_cancel">CANCEL</string>
+
+    <string name="search">Search</string>
+    <string name="map">Map</string>
+    <string name="suggest_business">Suggest a business</string>
+
+    <string name="firstname">First name</string>
+    <string name="lastname">Last name</string>
+
+    <string name="placeholder_km">%1$.2f km</string>
+    <string name="placeholder_m">%.0f m</string>
+    <string name="placeholder_selected">%1$s Selected</string>
+
+    <string name="not_supported">Not supported</string>
+    <string name="edit">Edit</string>
+    <string name="try_again">Try again</string>
+    <string name="close">Close</string>
+    <string name="connection_problem">Connection problem</string>
+    <string name="no_active_connection_to_the_internet">There is no active connection to the Internet!</string>
+    <string name="please_wait">Please wait &#8230;</string>
+    <string name="now">A while ago</string>
+
+    <string name="no_price">No price</string>
+
+    <string name="north">N</string>
+    <string name="south">S</string>
+    <string name="west">W</string>
+    <string name="east">E</string>
+
+    <string name="north_east">NE</string>
+    <string name="north_west">NW</string>
+    <string name="south_east">SE</string>
+    <string name="south_west">SW</string>
+
+    <string name="closed">Closed</string>
+
+    <string name="select_language">SELECT LANGUAGE</string>
+    <string name="select_language_title">Select language</string>
+    <string name="select_picture">Select picture</string>
+    <string name="restart_app_to_change_language">Restart the application to register the change.</string>
+
+
+    <string name="exit">Exit</string>
+    <string name="cancel_lower_case">Cancel</string>
+    <string name="call">Call</string>
+
+    <string name="there_are_no_news">No news </string>
+    <string name="there_are_no_notifications">No notifications found</string>
+
+    <string name="enterprise_name">*Place’s name</string>
+    <string name="enterprise_telephone">Place’s phone number</string>
+    <string name="enterprise_address">Place’s address</string>
+    <string name="enterprise_email">*Place’s e-mail</string>
+    <string name="applicant_email">*Applicant\'s email</string>
+    <string name="manager_email">*Manager’s name</string>
+    <string name="manager_telephone">*Manager’s phone number</string>
+    <string name="send">Send</string>
+
+    <string name="press_for_routing">Press for navigation</string>
+
+</resources>

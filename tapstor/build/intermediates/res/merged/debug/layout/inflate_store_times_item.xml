@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayoutTimes"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/day"
+        style="@style/TextStyleWhite"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical|right"
+        android:minLines="2"
+        android:paddingRight="10dp"
+        android:text="@string/monday"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/day"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/firstTime"
+            style="@style/TextStyleWhite"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="10:00-15:00" />
+
+        <TextView
+            android:id="@+id/secondTime"
+            style="@style/TextStyleWhite"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="17:00-22:00" />
+
+        <TextView
+            android:id="@+id/closed"
+            style="@style/TextStyleWhite"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:minLines="2"
+            android:text="@string/closed"
+            android:visibility="gone" />
+
+
+    </LinearLayout>
+</RelativeLayout>
